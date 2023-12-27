@@ -36,8 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danukajihak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danukajihak" /></a><a href="https://ko-fi.com/danukajihansanath"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="danukajihansanath" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danukaji-m&show_icons=true&locale=en&layout=compact" alt="danukaji-m" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=danukaji-m&show_icons=true&locale=en&layout=compact" alt="danukaji-m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danukaji-m&show_icons=true&locale=en" alt="danukaji-m" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=danukaji-m&show_icons=true&locale=en" alt="danukaji-m" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danukaji-m&" alt="danukaji-m" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=danukaji-m&" alt="danukaji-m" /></p>
