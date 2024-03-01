@@ -25,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=danukaji-M&icon=4&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Image of https://github.com/formidablae/my_github_profile_views_counter](https://github.com/formidablae/my_github_profile_views_counter/blob/master/svg/profile/badge.svg)](https://github.com/formidablae/my_github_profile_views_counter)
