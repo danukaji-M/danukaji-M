@@ -19,10 +19,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=danukaji-M&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danukaji-M&icon=4&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![Image of https://github.com/formidablae/my_github_profile_views_counter]](https://github.com/danukaji-M/danukaji-M)
+[![](https://visitcount.itsvg.in/api?id=danukaji-M&icon=4&color=3)](https://visitcount.itsvg.in)
+
