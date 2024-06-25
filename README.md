@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Danukajie Hansanath</h1>
-<h3 align="center">Hello Welcome to my profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danukaji-M&label=Profile%20views&color=0e75b6&style=flat" alt="danukaji-M" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danukaji-M&theme=dracula" alt="danukaji-M" /></a> </p>
@@ -84,11 +83,14 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danukaji-M&layout=compact&theme=dark" alt=danukaji-M />
+<p align="center">
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danukaji-M&layout=compact&theme=dark" alt=danukaji-M />
+</p>
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danukaji-M&show_icons=true&locale=en&theme=dark" alt="danukaji-M" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danukaji-M&theme=dark" alt="danukaji-M" /></p>
+<p align="center" >&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=danukaji-M&show_icons=true&locale=en&theme=dark" alt="danukaji-M" /></p>
+
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=danukaji-M&theme=dark" alt="danukaji-M" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
