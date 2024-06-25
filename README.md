@@ -82,7 +82,7 @@
 </div>
 </p>
 
-<h3 align="left">Stars</h3>
+<h2 align="center"><i>Stars</i></h2>
 <p align="center">
     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danukaji-M&layout=compact&theme=dark" alt=danukaji-M />
 </p>
