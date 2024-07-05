@@ -10,6 +10,7 @@
     <a href="https://www.pdfdrive.com/microservices-patterns-with-examples-in-java-e184763895.html">2. Microservices Patterns: With examples in Java
 </a>
 </b>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danukaji-M&label=Profile%20views&color=0e75b6&style=flat" alt="danukaji-M" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danukaji-M&theme=dracula" alt="danukaji-M" /></a> </p>
